@@ -30,4 +30,9 @@ tested on linux(ubuntu 20.04), i don't know for windows or macs
 4. download pipenv
 5. Pipenv install in cloned dir
 6. python3 contoh-static.py
-7. render .rmd file 
+7. mkdir ignore
+8. render .rmd file
+```
+radian
+rmarkdown::render("*.rmd" output_dir = "ignore")
+``` 
