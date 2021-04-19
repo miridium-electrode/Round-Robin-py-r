@@ -19,6 +19,8 @@ output:
 # Round Robin Schedulling
 
 ## Flowchart
+**next pages**
+\includepdf[pages=-]{flowchart.pdf}
 
 ## Kode
 \begin{tcolorbox}[
