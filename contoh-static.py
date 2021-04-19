@@ -10,7 +10,6 @@
 # find average time = fat
 # total waiting time = twt
 from tabulate import tabulate
-import csv
 
 def rr(p, bt, q):
 	wt = fwt(p, bt, q)
