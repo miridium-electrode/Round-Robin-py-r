@@ -2,3 +2,4 @@
 .vscode
 *.csv
 ignore
+_minted*
