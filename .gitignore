@@ -1,7 +1,4 @@
 .venv
 .vscode
 *.csv
-*.png
-*.jpg
-*.jpeg
-*.svg
+ignore

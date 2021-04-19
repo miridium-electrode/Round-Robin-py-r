@@ -1,0 +1,17 @@
+---
+output: 
+    pdf_document:
+        latex_engine: pdflatex
+        pandoc_args: "--pdf-engine-opt=-shell-escape"
+        includes:
+            in_header: "cover.tex"
+---
+
+\begin{titlepage}
+    \pagenumbering{gobble}
+    \maketitle
+    \begin{center}
+        2103191042 \\
+        Alexander Septian
+    \end{center}
+\end{titlepage}
